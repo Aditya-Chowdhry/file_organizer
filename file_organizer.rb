@@ -1,3 +1,4 @@
+#!/usr/bin/ruby
 require 'fileutils'
 
 docs=["DOC","DOCX","PPT","PPTX","PAGES","PDF","ODT","ODP","XLSX","XLS","ODS","TXT","IN","OUT"]
