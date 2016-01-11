@@ -1,8 +1,7 @@
 # file_organizer
 A basic hack to organize files in a folder. Categorizes different files in corresponding folders.
 Currently very basic utility.
-Working: https://media.giphy.com/media/3oxRmCVhc6d9P8atZS/giphy.gif  
-
+Working:  ![alt tag](https://media.giphy.com/media/xT77Y5HdFXWLnwgB8s/giphy.gif )
 How to run:
 Add the path of the directory(file_organizer) to PATH variable in linux.  
 Change the directory to one which you want to organize
